@@ -1,6 +1,6 @@
-function theBeatlesPLay(musicians, instruments) {
+function theBeatlesPLay(musician, instrument) {
   var array = [];
-  for (let i = 0; i < 4; i++) {array.push(`${musicians[i]} plays ${instruments[i]}`)} 
+  for (let i = 0; i < 4; i++) {array.push(`${musician[i]} plays ${instrument[i]}`)} 
   return array}
   
   function johnLennonFacts(array) {
