@@ -15,5 +15,5 @@ function theBeatlesPLay(musicians, instruments) {
     return i}
   var array = [];
   do {array.push(`I love the Beatles!`)} 
-  while (num < 15);
+  while (i - num < 15);
   return array}
