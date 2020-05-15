@@ -10,4 +10,6 @@ function theBeatlesPLay(musicians, instruments) {
     return newArray
   }
   
+  function iLoveTheBeatles(num) {
+  var array = []
   
