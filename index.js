@@ -12,4 +12,5 @@ function theBeatlesPLay(musicians, instruments) {
   
   function iLoveTheBeatles(num) {
   var array = []
-  do {array.push(`I love the Beatles!`)}
+  do {array.push(`I love the Beatles!`)} 
+  while (num < 15)
